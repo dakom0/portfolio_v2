@@ -134,6 +134,11 @@
       color: #fff;
       font-size: 2rem;
     }
+
+    .fa-robot{
+        margin-left: 0.5rem;
+        font-size: 1.8rem;
+    }
   
     .nav-links-mobile {
       display: block;

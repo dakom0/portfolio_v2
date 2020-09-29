@@ -42,3 +42,29 @@
   color: #fff;
   font-size: 100px;
 }
+
+#contactform123{
+  background: #fff;
+  height: -webkit-fill-available;
+  overflow:auto;
+}
+
+#form div[data-role="form-footer"] {
+  margin-top: 15px;
+  display: none;
+}
+
+form div[data-role="form-footer"] {
+  color: #fff;
+}
+
+iframe {
+  border-width: 2px;
+  border-style: none;
+  border-color: white;
+  border-image: none;
+}
+
+.contacts{
+  height: 120vh;
+}
